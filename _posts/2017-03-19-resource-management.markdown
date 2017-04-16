@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resource management in Scala"
+title:  "Resource Management in Scala"
 date:   2017-03-19 11:34:54 -0500
 categories: scala
 ---
