@@ -40,4 +40,6 @@ The following questions are taken from the book:
 
 > Does part of the software give the business a competitive edge?
 
+> How is this different from what has been done before?
+
 The book mentions a blog post with [Powerful Questions](https://goodenoughsoftware.net/2012/02/29/powerful-questions/){:target="_blank"} as well. Make sure you read the comments section!
